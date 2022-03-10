@@ -2,8 +2,6 @@
 
 I hope, that some more skillfull people help to (re-) design the PCBs used in the OpenScan Hardware. I am very open for further discussions and feature requests and this repository should be the place for all PCB-related ideas and issues.
 
-In the following, I will add
-
 # Pi-Shield v1 (the current version)
 - two stepper drivers A4988
 - two controlable 12V outputs for the ringlight module
