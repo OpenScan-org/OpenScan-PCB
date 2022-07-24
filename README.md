@@ -21,8 +21,6 @@ There is a newer version in the making that will include more potential features
 - pull-down and pull-up resistors
 - extra controllable pin to the ringlight (not in use for anything at the moment)
 
-# The Ringlight PCB als comes with some changes
-
 # Ringlight v2
 - simple design containing two series of four 1W LEDs driven by 12V 
 - mounting holes for Arducam and RaspberryCam cameras
