@@ -1,6 +1,6 @@
 # OpenScan - PCB
 
-The heart of the OpenScan is the OpenScan-PCB (or Pi Shield) which supplies all components with power and serves as connectivity hub between all components. The current version (v1) sold is fully functional and can be hand-soldered quite easily without any special components in use. Wiring diagram cen be found [here](https://drive.google.com/file/d/15dHPhmN0gLu5s5aGFLwUulbkThmojQXg/view) and the documentation/manual [here](https://drive.google.com/file/d/1dsRXQuZrLWvM27U1WFC0Ot8rcSIoJQud/view). There is also a v2 in the making, however, without ETA. The next version will also inlcude user suggestions/mods so we make them accessible to the broader community.
+The heart of the OpenScan is the OpenScan-PCB (or Pi Shield) which supplies all components with power and serves as connectivity hub between all components. The current version (v1) sold is fully functional and can be hand-soldered quite easily without any special components in use. Wiring diagram can be found [here](https://drive.google.com/file/d/15dHPhmN0gLu5s5aGFLwUulbkThmojQXg/view) and the documentation/manual [here](https://drive.google.com/file/d/1dsRXQuZrLWvM27U1WFC0Ot8rcSIoJQud/view). There is also a v2 in the making, however, without ETA. The next version will inlcude user suggestions/mods so we make them accessible to the broader community.
 
 The current fully-functional OpenScan-PCB v1 features:
 
